@@ -1,4 +1,4 @@
-# Timer ⏳
+# Timer ⏳ 
 
 ## Tecnologias usadas:
 - HTML
